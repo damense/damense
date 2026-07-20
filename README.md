@@ -10,11 +10,11 @@
 
 -   These are skills I feel confident about
 
-<img src="https://skillicons.dev/icons?i=bitbucket,discord,github,gmail,instagram,linkedin,mastodon,matlab,r,stackoverflow,windows"/>
+<img src="https://skillicons.dev/icons?i=bitbucket,discord,github,gmail,instagram,linkedin,mastodon,matlab,r,py,stackoverflow,windows,claude"/>
 
 -   These are skills I've used at some point
 
-<img src="https://skillicons.dev/icons?i=anaconda,arduino,autocad,aws,docker,fortran,html,notion,octave,py,raspberrypi,sklearn,twitter,wordpress"/>
+<img src="https://skillicons.dev/icons?i=anaconda,arduino,autocad,aws,docker,fortran,html,notion,octave,raspberrypi,sklearn,twitter,wordpress"/>
 
 -   These are skills I know that exist.
 
